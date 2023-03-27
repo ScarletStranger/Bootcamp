@@ -2,11 +2,11 @@
 using static ArraySum;
 using System.Diagnostics;
 
-int[] array = 500000.CreateOneDimensionArray()
+int[] array = 50000.CreateOneDimensionArray()
 .Fill(1, 10);
 //array.ConvertToStringAndprintToTerminal();
 
-int m = 10000;
+int m = 1000;
 Stopwatch sw = new Stopwatch();
 sw.Start();
 
