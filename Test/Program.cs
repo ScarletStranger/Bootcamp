@@ -2,7 +2,7 @@
 using static ArraySum;
 using System.Diagnostics;
 
-int[] array = 50000.CreateOneDimensionArray()
+int[] array = 5000.CreateOneDimensionArray()
 .Fill(1, 10);
 //array.ConvertToStringAndprintToTerminal();
 
